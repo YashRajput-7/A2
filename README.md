@@ -9,5 +9,6 @@ Tis is my A2 Git Repository.
     <h1>Welcome to My Page</h1>
     <p>This is a basic paragraph on my first HTML page.</p>
     <p>You can add more content here, like images or links.</p>
+    <img src="https://share.google/fwiNRCQYTXcA0GZSl.jpg">
 </body>
 </html>
